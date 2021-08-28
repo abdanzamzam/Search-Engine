@@ -6,6 +6,7 @@ Demo: http://search-engine.abdan.xyz/
 
 ## Tech Stack:
 Frontend: TailwindCSS, Vue.js, Vuex, Axios
+
 Backend: Node.js, Express.js, Axios
 
 ## Preview:
