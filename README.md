@@ -7,3 +7,4 @@ Frontend: TailwindCSS, Vue.js, Vuex, Axios
 Backend: Node.js, Express.js, Axios
 
 ## Preview:
+![Search Engine](https://github.com/abdanzamzam/Search-Engine-Web-App/blob/development/preview/Screenshot%20(1384).png)
