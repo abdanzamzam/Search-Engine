@@ -1,0 +1,31 @@
+{
+  "name": "p2-iproject-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development npx nodemon app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/p2-iproject-server.git"
+  },
+  "keywords": [],
+  "author": "Abdan Zam Zam Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/p2-iproject-server/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/p2-iproject-server#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "google-translate-api": "^2.3.0",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.5"
+  }
+}
